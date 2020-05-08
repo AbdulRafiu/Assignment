@@ -1,0 +1,19 @@
+h1, h2{
+    color: blueviolet;
+    text-align: center;
+    }
+.adjustment{
+    width: 140px;
+    display: inline-flex;
+    padding: 8px;
+}
+#address{
+    vertical-align: top;
+}
+.myfield {
+    width: 450px;
+    margin: auto;
+    color: white; 
+    background-color:  blueviolet;
+    font-family: sans-serif;
+}
